@@ -1,0 +1,11 @@
+pretrained-jointly-TAP-model
+pretrained-TAP-model
+pretrained-model/en
+pretrained-model/zh
+data/zh
+data/zh/AISHELL-1/audio-feature/wav2vec_feature.h5
+data/zh/AIDATATANG/audio-feature/wav2vec_feature.h5
+pretrained-model/en/BART/pytorch_model.bin
+pretrained-model/zh/BART/pytorch_model.bin
+pretrained-model/zh/phoneme_model/pytorch_model.bin
+
